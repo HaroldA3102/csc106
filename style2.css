@@ -8,7 +8,13 @@
               }
               #yes{float:right;
               margin-left:15px;}
-              
+
+              #fish{ float:left;
+                margin-right:15px;
+              }
+              #car{float:right;
+              margin-left:15px;}
+
               #home{ float:left;
                 margin-right:15px;
             }
