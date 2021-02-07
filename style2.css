@@ -1,4 +1,4 @@
-
+<style>
             body{background-image:url(myBackground.jpg);}
             h1{ color:white;
             }
@@ -17,9 +17,11 @@
                 margin-left:15px;
                 margin-right:15px;
             }
-          
+     
+            
             #about{ float:right;
                margin-left:15px;
               
             }
-             
+              
+        </style>
