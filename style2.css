@@ -1,9 +1,25 @@
-body {
-                    background-color: black;
-                }
-        h1{
-            color:gray;
-        }
-        p{ color:gray
+
+            body{background-image:url(myBackground.jpg);}
+            h1{ color:white;
             }
-        
+            p{color:white;}
+            #mom{ float:left;
+                margin-right:15px;
+              }
+              #yes{float:right;
+              margin-left:15px;}
+              
+              #home{ float:left;
+                margin-right:15px;
+            }
+            
+            #java{float:right;
+                margin-left:15px;
+                margin-right:15px;
+            }
+          
+            #about{ float:right;
+               margin-left:15px;
+              
+            }
+             
