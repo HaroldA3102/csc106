@@ -5,12 +5,14 @@
             p{color:white;}
             #mom{ float:left;
                 margin-right:10px;
-              }
+                margin-bottom:10px;}
+
               #yes{float:right;
               margin-left:15px;}
 
               #car{ float:left;
                 margin-right:10px;
+                margin-top:10px;          
               }
               #fish{float:right;
               margin-left:15px;}
